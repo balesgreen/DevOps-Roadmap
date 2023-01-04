@@ -123,3 +123,72 @@
 <h3> Posix </h3>
 
 - [Exploring and Using Posix subsystem for Windows](https://www.youtube.com/watch?v=UZ4zpfNn2dI)
+- [Summary of some POSIX implementations](https://unix.stackexchange.com/questions/11983/what-exactly-is-posix/220877#220877)
+- [A Guide to POSIX](https://www.baeldung.com/linux/posix)
+
+<h3> Sockets </h3>
+
+- [What are Sockets?](https://www.geeksforgeeks.org/socket-in-computer-network/)
+- [Types of Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm)
+- [Port vs Sockets](https://www.baeldung.com/cs/port-vs-socket)
+- [Socket in Operating System](https://www.youtube.com/watch?v=uagKTbohimU&pp=ugMICgJwdBABGAE%3D)
+- [Python Socket Programming](https://www.youtube.com/watch?v=3QiPPX-KeSc)
+- [Socket Programming C/C++](https://www.youtube.com/watch?v=bqj4dWG7v3c&list=PLhnN2F9NiVmAMn9iGB_Rtjs3aGef3GpSm)
+- [C++ Sockets - Create a Simple Server and Client chat](https://www.youtube.com/watch?v=IydkqseK6oQ)
+
+<h3> Processes </h3>
+
+- [Introduction to Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)
+- [Process Management in Linux](https://www.geeksforgeeks.org/process-management-in-linux/)
+- [Process Related Commands in Linux](https://www.geeksforgeeks.org/processes-in-linuxunix/)
+- [Process vs Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)
+- [Understand Linux Processes](https://www.youtube.com/watch?v=ls5cGi12kGw&list=PLtK75qxsQaMKLUENMaPlD_O2qS8ZBGjuy)
+- [Introduction to Processes in Linux](https://www.youtube.com/watch?v=WkuKhLYtUHw)
+- [Linux Process Management](https://www.youtube.com/watch?v=oU__JKi5tVM&list=PLK73SZ5kBqGcK3GBpXJifsyubpAQ4h4nP)
+- [Process Management Linux FULL](https://www.youtube.com/watch?v=xKiFCAZoPOA)
+
+<h3> Startup Management (init.d) </h3>
+
+- [Linux Booting Process](https://www.freecodecamp.org/news/the-linux-booting-process-6-steps-described-in-detail/)
+- [What is init.d?](https://www.geeksforgeeks.org/what-is-init-d-in-linux-service-management/)
+- [What are Daemons in Linux?](https://itsfoss.com/linux-daemons/)
+
+<h3> Service Management (systemd) </h3>
+
+- [What is systemd? and its commands](https://www.geeksforgeeks.org/linux-systemd-and-its-components/)
+- [init.d vs systemd](https://uace.github.io/learning/init-vs-systemd-what-is-an-init-daemon)
+- [Why systemd is replacement of init.d?](https://www.tecmint.com/systemd-replaces-init-in-linux/)
+
+<h3> Thread in OS </h3>
+
+- [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+- [What is thread in OS?](https://www.geeksforgeeks.org/thread-in-operating-system/)
+- [Process vs Thread vs Multi-Threading](https://www.scaler.com/topics/operating-system/threads-in-operating-system/)
+
+<h3> Concurrency in OS </h3>
+
+- [What Concurrency in OS?](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
+- [Threads vs Concurrency](https://medium.com/@azizomarck/how-is-concurrency-different-from-parallelism-334b6d5c869a)
+- [How Concurrency achieved is Threads](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
+
+<h3> I/O Management </h3>
+
+- [Operation System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
+- [IO Management](https://www.omscs-notes.com/operating-systems/io-management/)
+- [Basic of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)
+
+<h3> Virtualization </h3>
+
+- [What is Virtualization? and its Types?](https://www.techtarget.com/searchitoperations/definition/virtualization)
+- [What is Hypervisor and VM?](https://opensource.com/resources/virtualization)
+- [Containers vs VM](https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms)
+
+<h3> Memory Storage </h3>
+
+- [Demystifying memory management in modern programming languages](https://dev.to/deepu105/demystifying-memory-management-in-modern-programming-languages-ddd)
+- [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+
+<h3> File System </h3>
+
+- [Operating System - File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm)
+
