@@ -192,3 +192,320 @@
 
 - [Operating System - File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm)
 
+<img src="https://i.imgur.com/waxVImv.png">
+
+<h2>Learn about Managin Servers</h2>
+
+<h3> Operating System - Linux Category </h3>
+
+- Linux Debian / Ubuntu
+
+- [Debian Website](https://www.debian.org/)
+- [Official Debian Documentation](https://www.debian.org/doc/)
+- [Debian Installation Guide](https://www.debian.org/releases/stable/installmanual)
+- [Ubuntu Website](https://ubuntu.com/)
+- [Ubuntu Documentation](https://help.ubuntu.com/)
+- [Install Ubuntu Desktop Documentation](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
+- [Getting Started with Ubuntu Tutorials](https://itsfoss.com/getting-started-with-ubuntu/)
+
+- Linux OpenSUSE
+
+- [OpenSUSE Linux Website](https://www.opensuse.org/)
+- [OpenSUSE Documentation](https://en.opensuse.org/Main_Page)
+- [Unofficial OpenSUSE Getting Started Guide](https://opensuse-guide.org/)
+
+- RHEL / Derivatives
+
+- [Red Hat Enterprise Linux Website](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+- [RHEL Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)
+- [RHEL Getting Started Guides](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/get-started)
+- [What is Red Hat Enterprise Linux (RHEL) - Red Hat](https://www.redhat.com/en/topics/linux/what-is-rhel)
+
+<h3> Operating System - Unix Category </h3>
+
+- FreeBSD
+
+- [FreeBSD Website](https://www.freebsd.org/)
+- [Official FreeBSD Documentation](https://docs.freebsd.org/en/)
+- [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
+- [FreeBSD Resources for Newbies](https://www.freebsd.org/projects/newbies/)
+
+- OpenBSD
+
+-[OpenBSD Website](https://www.openbsd.org/)
+-[Official OpenBSD Documentation](https://man.openbsd.org/search)
+-[OpenBSD Handbook](https://www.openbsdhandbook.com/)
+-[OpenBSD Installation Guide](https://www.openbsd.org/faq/faq4.html)
+
+- NetBSD
+
+- [NetBSD Website](https://netbsd.org/)
+- [Official NetBSD Documentation](https://netbsd.org/docs/)
+- [NetBSD Guide](https://netbsd.org/docs/guide/en/index.html)
+
+<h3> Learn to live in Terminal </h3>
+
+- Learn Bash Scripting
+
+- [The Shell Scripting Tutorial](https://www.shellscript.sh/)
+- [Writing Shell Scripts](https://linuxcommand.org/lc3_writing_shell_scripts.php)
+- [Shell Scripting for Beginners](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
+- [A Guide to Bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+- [The Bash Hackers Wiki](https://wiki.bash-hackers.org/)
+- [Bash Shell Scripting Wiki](https://rudrakshi.hashnode.dev/bash-shell-scripting-guide)
+- [Codecademy - Learn Bash Scripting(COURSE)](https://www.codecademy.com/learn/bash-scripting)
+
+<h3> Vim, Nano, PowerShell and Emacs </h3>
+
+- Vim
+
+- [Vim Website](https://www.vim.org/)
+- [Vim help files](https://vimhelp.org/)
+- [Vim tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
+- [Vim Adventures](https://vim-adventures.com/)
+
+- Nano
+
+- [GNU Nano Website](https://www.nano-editor.org/)
+- [GNU Nano Manual](https://www.nano-editor.org/dist/latest/nano.html)
+
+- PowerShell
+
+- [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
+
+- Emacs
+
+- [GNU Emacs Website](https://www.gnu.org/software/emacs/)
+- [GNU Emacs Documentation](https://www.gnu.org/software/emacs/documentation.html)
+
+<h3> Text Manipulation Tools </h3>
+
+- AWK
+
+- [What is AWK? How to use it?](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
+- [How AWK works?](https://linuxize.com/post/awk-command/)
+- [Linux Crash Course - AWK](https://www.youtube.com/watch?v=oPEnvuj9QrI)
+
+- SED 
+
+- [What is SED? With examples](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)
+- [Detailed Manual](https://www.gnu.org/software/sed/manual/sed.html)
+- [Linux Crash Course - The SED command](https://www.youtube.com/watch?v=nXLnx8ncZyE&t=218s)
+
+- GREP
+
+- [What is GREP? With examples](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+- [Detailed Manual](https://www.gnu.org/software/grep/manual/grep.html)
+- [Linux Crash Course - GREP](https://www.youtube.com/watch?v=Tc_jntovCM0)
+
+- SORT
+
+- [SORT Command with examples](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/)
+- [Options](https://en.wikipedia.org/wiki/Sort_(Unix))
+- [Linux Tutorials | Sort Command GeekForGeeks](https://www.youtube.com/watch?v=fEx5rnbDKO4)
+
+- CUT
+
+- [CUT Documentation](https://man7.org/linux/man-pages/man1/cut.1.html)
+- [CUT Cheat Sheet](https://bencane.com/2012/10/22/cheat-sheet-cutting-text-with-cut/)
+
+- UNIQ 
+
+- [UNIQ Documentation](https://man7.org/linux/man-pages/man1/uniq.1.html)
+- [UNIQ Cheat Sheet](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/)
+
+- CAT
+
+- [CAT command with examples](https://www.tecmint.com/13-basic-cat-command-examples-in-linux/)
+- [Options](https://en.wikipedia.org/wiki/Cat_(Unix))
+- [Linux Tutorials | cat command | GeekForGeeks](https://www.youtube.com/watch?v=exj5WMUJ11g)
+
+- ECHO
+
+- [ECHO command with examples](https://www.tecmint.com/echo-command-in-linux/)
+- [Linux Crash Course - The ECHO command](https://www.youtube.com/watch?v=S_ySzMHxMjw)
+
+- FMT
+
+- [FMT command with examples](https://www.devopsroles.com/fmt-command-in-linux-with-example/)
+
+- TR
+
+- [TR Documentation](https://linuxcommand.org/lc3_man_pages/tr1.html)
+- [TR Cheat Sheet](https://linuxopsys.com/topics/tr-command-in-linux)
+
+- NL
+
+- [NL Documentation](https://man7.org/linux/man-pages/man1/nl.1.html)
+- [NL Cheat Sheet](https://www.geeksforgeeks.org/nl-command-in-linux-with-examples/)
+
+- WC
+
+- [WC Documentation](https://linux.die.net/man/1/wc)
+- [WC Cheat Sheet](https://onecompiler.com/cheatsheets/wc)
+
+<h3> Others Commands </h3>
+
+- STRACE 
+
+- [STRACE Official Website](https://strace.io/)
+- [STRACE - Linux Manual Page](https://man7.org/linux/man-pages/man1/strace.1.html)
+
+- DTRACE
+
+- [DF Manual](https://man7.org/linux/man-pages/man1/dtrace.1.html)
+- [Wikipedia - DTRACE](https://en.wikipedia.org/wiki/DTrace)
+
+- SYSTEMTAP
+
+- [SYSTEMTAP Wiki](https://sourceware.org/systemtap/wiki)
+
+- UNAME
+
+- [UNAME Command Tutorial](https://www.tutorialspoint.com/unix_commands/uname.htm)
+- [UNAME Tutorial for Beginners](https://www.howtoforge.com/linux-uname-command/)
+- [UNAME Command in Linux](https://linuxize.com/post/uname-command-in-linux/)
+
+- DF
+
+- [DF Manual](https://man7.org/linux/man-pages/man1/df.1.html)
+- [RedHat - Check your disk space use with the Linux DF command](https://www.redhat.com/sysadmin/Linux-df-command)
+- [DF Command with examples](https://www.geeksforgeeks.org/df-command-linux-examples/)
+
+- HISTORY
+
+- [What is HISTORY command? How to recall previous commands?](https://www.geeksforgeeks.org/history-command-in-linux-with-examples/)
+
+- DU
+
+- [DU Manual](https://man7.org/linux/man-pages/man1/du.1.html)
+- [RedHat - du and the options you should be using](https://www.redhat.com/sysadmin/du-command-options)
+- [DU Command with examples](https://linuxhint.com/linux-du-command-examples/)
+
+<h3> Terminal Multiplexer </h3>
+
+- SCREEN 
+
+- [SCREEN Cheat Sheet](https://kapeli.com/cheat_sheets/screen.docset/Contents/Resources/Documents/index)
+- [SCREEN Users Manual](https://www.gnu.org/software/screen/manual/screen.html)
+
+- TMUX
+
+- [TMUX Documentation](https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html)
+- [TMUX Cheat Sheet](https://tmuxcheatsheet.com/)
+
+<h3> Process Monitoring </h3>
+
+- PS 
+
+- [PS Documentation](https://man7.org/linux/man-pages/man1/ps.1.html)
+- [PS Cheat Sheet](https://www.sysadmin.md/ps-cheatsheet.html)
+- [Linux Crash Course - The PS Command](https://www.youtube.com/watch?v=wYwGNgsfN3I)
+
+- TOP
+
+- [TOP Documentation](https://man7.org/linux/man-pages/man1/top.1.html)
+- [TOP Cheat Sheet](https://gist.github.com/ericandrewlewis/4983670c508b2f6b181703df43438c37)
+
+- HTOP
+
+- [HTOP Documentation](https://www.man7.org/linux/man-pages/man1/htop.1.html)
+- [HTOP Cheat Sheet](https://www.maketecheasier.com/power-user-guide-htop/)
+
+- ATOP
+
+- [ATOP Documentation](https://linux.die.net/man/1/atop)
+- [ATOP Command Guide](https://www.digitalocean.com/community/tutorials/atop-command-in-linux)
+
+- LSOF
+
+- [LSOF Documentation](https://man7.org/linux/man-pages/man8/lsof.8.html)
+- [LSOF Cheat Sheet](https://neverendingsecurity.wordpress.com/2015/04/13/lsof-commands-cheatsheet/)
+
+<h3> System Performance </h3>
+
+- NMON
+
+- [NMON Documentation](https://www.ibm.com/docs/en/aix/7.2?topic=n-nmon-command)
+- [NMON Command Guide](https://www.geeksforgeeks.org/linux-nmon/)
+
+- IOSTAT
+
+- [IOSTAT Documentation](https://man7.org/linux/man-pages/man1/iostat.1.html)
+- [IOSTAT Command Guide](https://www.geeksforgeeks.org/iostat-command-in-linux-with-examples/)
+
+- SAR
+
+- [SAR Command Linux Monitor System Performance](https://www.geeksforgeeks.org/sar-command-linux-monitor-system-performance/)
+- [SAR Man Page](https://man7.org/linux/man-pages/man1/sar.1.html)
+- [SAR Man Page 2](https://linux.die.net/man/1/sar)
+- [SAR Tutorial for Beginners](https://linuxhint.com/sar_linux_tutorial/)
+
+- VMSTAT
+
+- [VMSTAT Command in Linux with Examples](https://www.geeksforgeeks.org/vmstat-command-in-linux-with-examples/)
+- [Linux commands: exploring virtual memory with VMSTAT](https://www.redhat.com/sysadmin/linux-commands-vmstat)
+- [VMstat Man Page](https://man7.org/linux/man-pages/man8/vmstat.8.html)
+- [VMSTAT Tutorial](https://phoenixnap.com/kb/vmstat-command)
+
+<h3> Network Tools </h3>
+
+- TRACEROUTE
+
+- [How to run Traceroute in Linux](https://linuxhint.com/run_traceroute_linux/)
+- [Tracerout Command in Linux with Examples](https://www.geeksforgeeks.org/traceroute-command-in-linux-with-examples/)
+
+- MTR
+
+- [Javatpoint: Linux MTR Command](https://www.javatpoint.com/linux-mtr)
+- [MTR Linux Command](https://www.tutorialspoint.com/unix_commands/mtr.htm)
+- [How to Traceroute use MTR command in Linux](https://www.devopsroles.com/how-to-traceroute-use-mtr-command-in-linux/)
+
+- PING 
+
+- [What is PING command?](https://linuxize.com/post/linux-ping-command/)
+- [Ping command with examples](https://www.geeksforgeeks.org/ping-command-in-linux-with-examples/)
+
+- NMAP
+
+- [NMAP Official Manual Book](https://nmap.org/book/man.html)
+- [What is NMAP and How to Use it](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)
+
+- NETSTAT
+
+- [NETSTAT command in Linux with Examples](https://www.tutorialspoint.com/unix_commands/netstat.htm)
+- [NETSTAT Tutorial](http://www.c-jump.com/CIS24/Slides/Networking/html_utils/netstat.html)
+- [NETSTAT Commands - Network Administration Tutorial](https://www.youtube.com/watch?v=bxFwpm4IobU)
+- [Linux Command Line Tutorial For Beginners - NETSTAT command](https://www.youtube.com/watch?v=zGNcvBaN5wE)
+
+- UFW/FIREWALLD
+
+- [UFW Documentation](https://manpages.ubuntu.com/manpages/trusty/man8/ufw.8.html)
+- [Basic Introduction to UFW](https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/)
+- [UFW Essentials](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
+
+- TCPDUMP
+
+- [TCPDUMP Documentation](https://www.tcpdump.org/manpages/tcpdump.1.html)
+- [Basic Introduction to TCPDUMP](https://opensource.com/article/18/10/introduction-tcpdump)
+- [50 ways to isolate traffic with TCPDUMP](https://danielmiessler.com/study/tcpdump/)
+- [Interpreting TCPDUMP output and data](https://www.youtube.com/watch?v=7bsQP9sKHrs)
+
+- IPTABLES/NFTABLES
+
+- [IPTABLES tutorial](https://www.hostinger.in/tutorials/iptables-tutorial)
+- [Beginners to Advanced Guide IPTABLES](https://erravindrapawadia.medium.com/iptables-tutorial-beginners-to-advanced-guide-to-linux-firewall-839e10501759)
+
+- DIG
+
+- [What is DIG command?](https://www.geeksforgeeks.org/dig-command-in-linux-with-examples/)
+- [More on DIG](https://linuxize.com/post/how-to-use-dig-command-to-query-dns-in-linux/)
+- [What is HOST command?](https://www.geeksforgeeks.org/host-command-in-linux-with-examples/)
+- [What is nslookup command?](https://www.geeksforgeeks.org/nslookup-command-in-linux-with-examples/)
+- [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+
+- SCP
+
+- [SCP Linux Command](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/)
+- [10 SCP command examples](https://www.tecmint.com/scp-commands-examples/)
+- [SCP Command Explained](https://phoenixnap.com/kb/linux-scp-command)
