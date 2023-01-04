@@ -2,7 +2,6 @@
     <img src="https://imgur.com/qp8WrWy.png" height="128" />
     <h2 align="center">DevOps Roadmap</h2>
     <p align="center">Complete roadmap on DevOps! Various contents for your daily life.</p>
-    <img src="https://i.imgur.com/waxVImv.png">
 </p>
 
 <h3>Check below the line of studies that you can follow to become a good devops.</h3>
