@@ -11,8 +11,6 @@
 
 <h2>Learn a Programming Language Pick any language for automation</h2>
 
-<img src="https://i.imgur.com/waxVImv.png">
-
 <h3>Python Category</h3>
 
 - [Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI)
@@ -99,8 +97,6 @@
 <img src="https://i.imgur.com/waxVImv.png">
 
 <h2>Understand different OS concepts</h2>
-
-<img src="https://i.imgur.com/waxVImv.png">
 
 <h3>Networking</h3>
 
