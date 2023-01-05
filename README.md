@@ -509,3 +509,90 @@
 - [SCP Linux Command](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/)
 - [10 SCP command examples](https://www.tecmint.com/scp-commands-examples/)
 - [SCP Command Explained](https://phoenixnap.com/kb/linux-scp-command)
+
+<h3> Networking, Security and Protocols </h3>
+
+<h4> WHITE LISTING vs GREY LISTING </h4>
+
+- [Basic Introduction to whitelisting](https://www.cblohm.com/blog/education-marketing-trends/what-is-email-whitelisting/)
+- [Detailed Introduction to greylisting](https://en.wikipedia.org/wiki/Greylisting_(email))
+
+<h4> OSI Model </h4>
+
+- [What is OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [OSI Model](https://www.youtube.com/watch?v=dV8mjZd1OtU)
+
+<h4> TCP/IP Model </h4>
+
+- [What is TCP/IP Model?](https://www.geeksforgeeks.org/tcp-ip-model/)
+- [OSI Model vs TCP/IP Model](https://www.youtube.com/watch?v=F5rni9fr1yE)
+
+<h4> HTTP </h4>
+
+- [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
+- [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+
+<h4> HTTPS </h4>
+
+- [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
+- [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [Enabling HTTPS on Your Servers](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https)
+- [How HTTPS works (comic)](https://howhttps.works/)
+
+<h4> FPT/SFTP </h4>
+
+- [What is FTP?](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/)
+- [FTP vs SFTP vs FTPS](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning)
+
+<h4> SSL/TLS </h4>
+
+- [Cloudflare - What is SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
+- [Cloudflare - What is TLS?](https://www.cloudflare.com/en-gb/learning/ssl/transport-layer-security-tls/)
+- [Wikipedia - SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- [SSH vs SSL vs TLS](https://www.youtube.com/watch?v=k3rFFLmQCuY)
+
+<h4> SSH </h4>
+
+- [SSH Introduction](https://www.baeldung.com/cs/ssh-intro)
+- [What is SSH?](https://www.ssh.com/academy/ssh/protocol)
+- [SFTP using SSH](https://www.goanywhere.com/blog/how-sftp-works)
+
+<h4> Port Forwarding </h4>
+
+- [What is Port Forwarding?](https://learn.g2.com/port-forwarding)
+- [Types of Port Forwarding](https://cybernews.com/what-is-vpn/port-forwarding/)
+
+<h4> EMAILS </h4>
+
+- [What is an EMAIL?](https://www.cloudflare.com/learning/email-security/what-is-email/)
+
+<h4> SMTP </h4>
+
+- [What is Simple Mail Transfer Protocol (SMTP)?](https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/)
+
+<h4> IMAPS </h4>
+
+- [Wikipedia: Internet Message Access Protocol](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)
+- [What is IMAP and How To Use It | Email Tutorial](https://www.youtube.com/watch?v=cfXabGOA2s8)
+
+<h4> POP3S </h4>
+
+- [What is POP3?](https://www.techtarget.com/whatis/definition/POP3-Post-Office-Protocol-3)
+
+<h4> DMARC </h4>
+
+- [DMARC Official Website](https://dmarc.org/)
+
+<h4> SPF </h4>
+
+- [What is SPF DNS record?](https://www.cloudflare.com/learning/dns/dns-records/dns-spf-record/)
+- [SPF Overview](https://www.youtube.com/watch?v=WFPYrAr1boU)
+
+<h4> DOMAINS KEYS </h4>
+
+- [DomainKeys Identified Mail](https://www.brainkart.com/article/DomainKeys-Identified-Mail_8493/)
+
+<h3> What is and how to setup a... </h3>
