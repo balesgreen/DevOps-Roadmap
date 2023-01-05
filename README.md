@@ -596,3 +596,34 @@
 - [DomainKeys Identified Mail](https://www.brainkart.com/article/DomainKeys-Identified-Mail_8493/)
 
 <h3> What is and how to setup a... </h3>
+
+<h4> Reverse Proxy </h4>
+
+- [What is Reverse Proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/)
+- [NGINX Documentation](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
+
+<h4> Forward Proxy </h4>
+
+- [What is Forward Proxy?](https://www.fortinet.com/resources/cyberglossary/proxy-server)
+- [Forward vs Reverse Proxy](https://oxylabs.io/blog/reverse-proxy-vs-forward-proxy)
+
+<h4> Firewall </h4>
+
+- [What is Firewall?](https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/)
+- [Types of Firewall?](https://www.cisco.com/c/en_in/products/security/firewalls/what-is-a-firewall.html)
+- [Introduction of Firewall in Computer Network](https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/)
+- [What is Firewall in Computer Network?](https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/)
+- [Why do we need Firewalls?](https://www.tutorialspoint.com/what-is-a-firewall-and-why-do-you-need-one)
+- [Firewalls and Network Security - SimpliLearn](https://www.youtube.com/watch?v=9GZlVOafYTg)
+
+<h4> Caching Server </h4>
+
+- [What is Caching?](https://www.cloudflare.com/en-gb/learning/cdn/what-is-caching/)
+- [What is Cache Server?](https://networkencyclopedia.com/cache-server/)
+- [Site Cache vs Browser Cache vs Server Cache](https://wp-rocket.me/blog/different-types-of-caching/)
+
+<h4> Load Balancer </h4>
+
+- [What is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
+- [Load Balancing concepts and algorithms](https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/)
+
