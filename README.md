@@ -237,7 +237,7 @@
 - [OpenBSD Handbook](https://www.openbsdhandbook.com/)
 - [OpenBSD Installation Guide](https://www.openbsd.org/faq/faq4.html)
 
-- NetBSD
+<h4> NetBSD </h4>
 
 - [NetBSD Website](https://netbsd.org/)
 - [Official NetBSD Documentation](https://netbsd.org/docs/)
@@ -245,7 +245,7 @@
 
 <h3> Learn to live in Terminal </h3>
 
-- Learn Bash Scripting
+<h4> Learn Bash Scripting </h4>
 
 - [The Shell Scripting Tutorial](https://www.shellscript.sh/)
 - [Writing Shell Scripts](https://linuxcommand.org/lc3_writing_shell_scripts.php)
